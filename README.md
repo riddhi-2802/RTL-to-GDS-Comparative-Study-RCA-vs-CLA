@@ -1,13 +1,11 @@
-# ASIC RTL-to-GDS Implementation and Comparative Analysis of 4-bit Ripple Carry Adder (RCA) and Carry Lookahead Adder (CLA)
-
+# ASIC RTL-to-GDS Implementation of 4-bit RCA and CLA
 
 ![Verilog](https://img.shields.io/badge/Language-Verilog-blue)
 ![OpenLane](https://img.shields.io/badge/Flow-OpenLane-green)
 ![Sky130](https://img.shields.io/badge/PDK-Sky130-orange)
 ![ASIC](https://img.shields.io/badge/Project-ASIC-red)
 
-## 📖 Project Overview
-## 📖 Project Overview
+## Project Overview
 
 This project demonstrates the complete ASIC design flow by implementing and comparing two widely used digital adder architectures: a **4-bit Ripple Carry Adder (RCA)** and a **4-bit Carry Lookahead Adder (CLA)**.
 
@@ -17,7 +15,7 @@ The project provides hands-on experience with every major stage of the ASIC phys
 
 ---
 
-# 🎯 Objectives
+# Objectives
 
 * Design a 4-bit Ripple Carry Adder (RCA) in Verilog HDL.
 * Design a 4-bit Carry Lookahead Adder (CLA) in Verilog HDL.
@@ -29,7 +27,7 @@ The project provides hands-on experience with every major stage of the ASIC phys
 
 ---
 
-# 🛠️ Tools and Technologies
+# Tools and Technologies
 
 | Tool           | Purpose                            |
 | -------------- | ---------------------------------- |
@@ -47,7 +45,7 @@ The project provides hands-on experience with every major stage of the ASIC phys
 
 ---
 
-# 🔄 ASIC RTL-to-GDS Design Flow
+# ASIC RTL-to-GDS Design Flow
 
 ```text
 Verilog RTL Design
@@ -91,7 +89,7 @@ Layout Visualization (KLayout)
 
 ---
 
-# 📂 Repository Structure
+# Repository Structure
 
 ```text
 ASIC-RTL-to-GDS-RCA-CLA
@@ -117,7 +115,7 @@ ASIC-RTL-to-GDS-RCA-CLA
 
 ---
 
-# 📊 RCA vs CLA Comparison
+# RCA vs CLA Comparison
 
 | Parameter           | Ripple Carry Adder (RCA) | Carry Lookahead Adder (CLA) |
 | ------------------- | ------------------------ | --------------------------- |
@@ -131,7 +129,7 @@ ASIC-RTL-to-GDS-RCA-CLA
 
 ---
 
-# ✅ Project Outcomes
+# Project Outcomes
 
 Successfully completed the following stages for both RCA and CLA:
 
@@ -152,7 +150,7 @@ Successfully completed the following stages for both RCA and CLA:
 
 ---
 
-# 📸 Project Screenshots
+# Project Screenshots
 
 This repository includes screenshots of:
 
@@ -167,7 +165,7 @@ This repository includes screenshots of:
 
 ---
 
-# 🎓 Key Learnings
+# Key Learnings
 
 Through this project, I gained practical experience in:
 
@@ -185,7 +183,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-# 🚀 Future Improvements
+# Future Improvements
 
 * Extend the design to 8-bit, 16-bit and 32-bit adders.
 * Compare additional adder architectures such as Carry Select Adder (CSLA) and Carry Skip Adder (CSKA).
@@ -195,7 +193,7 @@ Through this project, I gained practical experience in:
 
 ---
 
-# 👩‍💻 Author
+# Author
 
 **Riddhima Prakash**
 
@@ -205,6 +203,6 @@ BMS College of Engineering, Bengaluru
 
 ---
 
-## ⭐ Acknowledgement
+## Acknowledgement
 
 This project was completed as part of my learning journey in ASIC and VLSI design to gain hands-on experience with the complete open-source RTL-to-GDSII flow using the Sky130 PDK and OpenLane toolchain.
